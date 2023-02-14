@@ -1,2 +1,5 @@
 ﻿# 忽略Visual Studio自己创建的.vs文件夹
 /.vs
+
+# 忽略redis生成的数据
+*.rdb

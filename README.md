@@ -67,26 +67,8 @@ Copyright (c) 2022 by 渔火Arcadia 1761869682@qq.com, All Rights Reserved.
 WeLM-plugin是一款在 QQ 内快速调用[WeLM](https://welm.weixin.qq.com/docs/tutorial/)提供的 API 接口进行多参数便捷 AI 对话的 [Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot) 插件, 此插件功能不断扩展中如有意见或新功能思想可在issues提出, 更多功能敬请期待......
 
 # 安装教程
-
-## 稳定版
-### 第一步
-在Yunzai-Bot根目录打开终端并选择一个执行   **_PS:如果不使用给出的命令安装插件包版可能会无法载入插件, 并且不要2个都执行!!!!!!!!!!!!!!!!!!!!!!!_**
-```
-# GitHub(进不去时可使用Gitee源)
-git clone -b master --depth=1 https://github.com/JD1433223/WeLM-plugin.git ./plugins/WeLM-plugin
-# Gitee 
-git clone -b master --depth=1 https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm.git ./plugins/WeLM-plugin
-```
-### 第二步
-对机器人私聊"#填写token xxx"（这个xxx是你的API-Token） _如果没有去这个文档申请[WeLM申请文档](https://docs.qq.com/form/page/DUW1YVVJNbHpzV2No#/fill-detail)_ 
-![](resources/README/img/token.jpg)
-### 第三步
-_PS:txt在WeLM-plugin/data内_
-#### 个性问答
-需要在dhdata.txt内写入预设，预设内第1行输入给模型的提示信息，然后回车空一行，接下来写一段模拟的对话。强烈建议去看看去看那个[dhdata演示](./resources/README/markdown/dhdata.md)学习一下，如果再不理解可以到渔火的群蒙德幼儿园找一个叫"群傻逼时不时来问问题喵~"的人问一下。或者!!!如果你机器人也是纳西妲的话可以把演示里的复制粘贴到data/dhdata.txt直接开用(强烈建议自己研究下，我用的这个对话起来bug很多)
-### 第四步(可选)
-使用#更改name xxx把name改成和预设里面机器人要扮演的角色一样的名字
-![](resources/README/img/name.jpg)
+# 稳定版
+见[稳定版分支](../master/)
 
 ## 测试版
  _**PS:不推荐, 不稳定**_

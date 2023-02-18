@@ -1,74 +1,7 @@
-<!--
-<p align="center">
-  <img src="./resources/README/img/logo.jpg" alt="WeLM-plugin"></a>
-</p>
--->
-
-<!--
-兰罗摩: 没图了生草的一批有没有好心人给点图()
--->
-
-<div align="center">
-
-# WeLM-plugin
-
-_🎉 基于 Yunzai-Bot 的 AI 对话插件 🎉_
-<br>
-Gitee访问量(❁´◡`❁): [![访问量](https://profile-counter.glitch.me/yunzai-custom-dialogue-welm/count.svg)](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm)
-<br>
-Github访问量╰(*°▽°*)╯: [![访问量](https://profile-counter.glitch.me/WeLM-plugin/count.svg)](https://github.com/JD1433223/WeLM-plugin.git)
-
-</div>
-
-<p align="center">
-  </a>
-    <img src="./resources/README/img/head.jpg">
-  </a>
-</p>
-
----
-
-<p align="center">
-  </a>
-    <a href="https://nodejs.org/en/download">
-    <img src="https://img.shields.io/badge/Nodejs-16.x+-6BA552.svg" alt="Nodejs">
-  <a/>
-    <a href="../../../../Le-niao/Yunzai-Bot">
-    <img src="https://img.shields.io/badge/Yunzai_Bot-v3-red.svg" alt="NoneBot">
-  <br>
-  </a>
-    <a href="https://jq.qq.com/?_wv=1027&k=5jt6obxk">
-    <img src="https://img.shields.io/badge/QQ%E7%BE%A4-%E7%BA%B3%E8%A5%BF%E5%A6%B2%20%F0%9F%A4%A4%F0%9F%A4%A4%F0%9F%A4%A4%20-green?style=flat-square" alt="QQ Chat Group">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#稳定版">稳定版</a>
-  ·
-  <a href="#测试版">测试版</a>
-  ·
-  <a href="#可能遇到的问题">大概率会遇到的问题</a>
-</p>
-
-<!--以上Html代码cv自渔火Arcadia的Ap-plugin-->
-
-<!--
-@Author: 渔火Arcadia  https://github.com/yhArcadia
-@Date: 2022-12-22 00:38:21
-@LastEditors: 渔火Arcadia
-@LastEditTime: 2023-02-08 17:27:42
-@FilePath: \Yunzai-Bot\plugins\ap-plugin\README.md
-@Description: 版本：2.11.5
-
-Copyright (c) 2022 by 渔火Arcadia 1761869682@qq.com, All Rights Reserved.
--->
-
 # 简介
-WeLM-plugin是一款在 QQ 内快速调用[WeLM](https://welm.weixin.qq.com/docs/tutorial/)提供的 API 接口进行多参数便捷 AI 对话的 [Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot) 插件, 此插件功能不断扩展中如有意见或新功能思想可在issues提出, 更多功能敬请期待......
+此分支为测试版分支也称开发版分支, 如果你不需要下载最新本插件的或开发需求请跳转至[稳定版分支](../master/), 此分支极其不稳定并且, 随时会爆token(指某罗摩, Mix: 爆装备辣)
 
 # 安装教程
-# 稳定版
-见[稳定版分支](../master/)
 
 ## 测试版
  _**PS:不推荐, 不稳定**_
